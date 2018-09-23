@@ -91,23 +91,39 @@ May change to accommodate guest presenters & student needs.
 
 Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
-0	| Jan. 27 | Intro | -- | -- | --
-1 | Feb. 5  | Slack, HTML, Editors, Dev Tools, CSS, URL composition, color representation, accessibility | HTML (except forms) | -- | --
--- | (skip week) | -- | -- | -- | --
-2 | Feb. 20 (Tues.) | CSS (classes, selectors, hover, breakpoints, embedded vs. linked, units of measure, box model, transitions, etc.), responsive design (media queries), design tools, design considerations (performance, cognition, etc.), browser discrepancies, git/GitHub, social media sharing (OpenGraph, etc.), design patterns/antipatterns | CSS (except forms) | HW-1 | --
-3 | Feb. 26 | Plain JavaScript (syntax, version history, closures, OOP methodologies, etc.), events | Plain JavaScript (except OOP, XHR) | HW-2 (EC) | --
-4 | Mar. 5  | Project 1 showcase, jQuery, DOM, design standards (Material), design templates (Bootstrap), JS framework overview/trends/considerations, introduction to front-end JavaScript framework of choice, front-end logging | JavaScript (OOP) | HW-3, Project 1 | HW-1, HW-2 (EC)
-5 | Mar. 12 | AJAX, Consuming APIs (SOAP/REST, JSON, HTTP methods, response codes, MIME types), SPA overview, chosen JavaScript UI framework elaboration | *TBD* | -- | --
-6 | Mar. 19 | Midterm review, Advanced HTML5 features, visualization libraries, animation, error reporting, analytics | -- | Project 2 | HW-3, Project 1
-7 | Mar. 26 | Catch up, Project 2 collaboration time | *TBD* | HW-4 | Midterm
--- | (skip week) | -- | -- | -- | --
-8 | Apr. 9 | Project 2 showcase, backend overview (web application architecture, languages and frameworks, MVC, LAMP, MEAN, etc.), introduction to backend framework of choice, server-side template rendering, logging | *TBD* | -- | HW-4, Project 2
-9 | Apr. 16 | Backend framework elaboration, databases (types, data modeling, CRUD, etc.), cloud hosting overview, cloud hosting setup | *TBD* | HW-8, Project 3 | HW-7, Withdraw Deadline
-10 | Apr. 23 | Publishing APIs, Asynchronous actions (emails, queues, cron, etc.), Real-time web (server push, JSONP, Websockets) | *TBD* | HW-9 | HW-8
-11 | Apr. 30 | Permissions (authentication/authorization, hasing/salting, etc.), Security (OWASP top 10), OAUTH, search | *TBD* | HW-10 | HW-9
-12 | May 7 | Query Performance, Caching, CDNs, Load balancing, DNS, cloud hosting provider overview | -- | -- | HW-10
-13 | May 14 | Project showcase, final review, where to go from here (design, back end, games, etc.), making websites without making websites (CMSs) | -- | -- | Project 3
--- | TBA | -- | -- | -- | Final
+0	| Aug. 27 (M) | Intro | -- | -- | --
+1 | Aug. 29 (W) | -- | -- | -- | --
+-- | Sep. 3 (M) | **NO CLASS** | -- | -- | --
+2 | Sep. 5 (W) | -- | -- | -- | --
+-- | Sep. 10 (M) | **NO CLASS** | -- | -- | --
+-- | Sep. 12 (W) | **NO CLASS** | -- | -- | --
+-- | Sep. 17 (M) | **NO CLASS** | -- | -- | --
+-- | Sep. 19 (W) | **NO CLASS** | -- | -- | --
+3 | Sep. 24 (M) | -- | -- | -- | --
+4 | Sep. 26 (W) | -- | -- | -- | --
+5 | Oct. 1 (M) | -- | -- | -- | --
+6 | Oct. 3 (W) | -- | -- | -- | --
+-- | Oct. 8 (M) | **NO CLASS** | -- | -- | --
+-- | Oct. 10 (W) | **NO CLASS** | -- | -- | --
+7 | Oct. 15 (M) | -- | -- | -- | --
+8 | Oct. 17 (W) | -- | -- | -- | --
+9 | Oct. 22 (M) | -- | -- | -- | --
+10 | Oct. 24 (W) | -- | -- | -- | --
+11 | Oct. 29 (M) | -- | -- | -- | --
+12 | Oct. 31 (W) | -- | -- | -- | --
+13 | Nov. 5 (M) | -- | -- | -- | --
+14 | Nov. 7 (W) | -- | -- | -- | --
+15 | Nov. 12 (M) | -- | -- | -- | --
+-- | Nov. 14 (W) | **NO CLASS** | -- | -- | --
+16 | Nov. 19 (M) | -- | -- | -- | --
+17 | Nov. 21 (W) | -- | -- | -- | --
+18 | Nov. 26 (M) | -- | -- | -- | --
+19 | Nov. 28 (W) | -- | -- | -- | --
+20 | Dec. 3 (M) | -- | -- | -- | --
+21 | Dec. 5 (W) | -- | -- | -- | --
+22 | Dec. 10 (M) | -- | -- | -- | --
+-- | Dec. 12 (W) | **NO CLASS** | -- | -- | --
+FINAL | Dec. ? | Final exam. | -- | -- | --
 
 ## Academic Integrity
 
