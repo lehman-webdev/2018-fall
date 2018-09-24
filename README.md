@@ -46,6 +46,17 @@ In adhering to "real-world" industry norms, this class does not have any require
 
 This course will employ the following assignments:
 
+Assignment|Percent|Format|Content
+--|--|--|--
+Homework (8)|20% (2.5 each)|Individual|All material.
+Project 1|20%|Group|HTML, CSS
+Midterm|15%|Individual|HTML, CSS
+Project 2|25%|Group|HTML, CSS, JS
+Final|20%|Individual|HTML, CSS, JS
+**TOTAL**|**100%**|--|--
+
+The intentions of these assignments are:
+
 - **Homework**
   - Reinforce readings/lecture content
   - Practice writing code
@@ -58,14 +69,6 @@ This course will employ the following assignments:
   - Demonstrate closed-book knowledge of subject matter
   - Emulate live-coding component of real-world interviews
 
-Assignment|Percent|Format|Content
---|--|--|--
-Homework (8)|20% (2.5 each)|Individual|All material.
-Project 1|20%|Group|HTML, CSS
-Midterm|15%|Individual|HTML, CSS
-Project 2|25%|Group|HTML, CSS, JS
-Final|20%|Individual|HTML, CSS, JS
-**TOTAL**|**100%**|--|--
 
 ## Tentative Course Schedule
 
