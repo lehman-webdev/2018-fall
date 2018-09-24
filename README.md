@@ -44,46 +44,28 @@ In adhering to "real-world" industry norms, this class does not have any require
 
 ### Assignments
 
-Student grades in this course will be assigned as follows:
+This course will employ the following assignments:
 
-- **Homework (10%)**
-  - 10 graded assignments @ 1% each
-  - All individual
-  - Intents:
-    - Reinforce readings/lecture content
-    - Practice writing code
-    - Practice using GitHub (delivery/submission vehicle)
-- **Project 1 (10%)**
-  - HTML + CSS (static)
-  - Teams of 2
-  - Intents:
-    - Demonstrate ability to develop responsive static website
-    - Add to students' public GitHub portfolios
-    - Practice code collaboration
-- **Written Midterm (10%)**
-  - Closed-everything
-  - Intents:
-    - Demonstrate knowledge of subject matter
-    - Emulate live-coding component of real-world interviews
-- **Project 2 (20%)**
-  - HTML + CSS + JavaScript (front-end)
-  - Teams of 3-4
-  - Intents:
-    - Demonstrate ability to develop a dynamic SPA
-    - Add to students' GitHub portfolios
-    - Practice code collaboration
-- **Project 3 (25%)**
-  - HTML + CSS + JavaScript + API (back-end)
-  - Teams of 4-5
-  - Intents:
-    - Demonstrate ability to develop a full-stack wenb application
-    - Add to students' GitHub portfolios
-    - Practice code collaboration
--	**Written Final (15%)**
-  - Closed-everything
-  - Intents:
-    - Demonstrate knowledge of subject matter
-    - Emulate live-coding component of real-world interviews
+- **Homework**
+  - Reinforce readings/lecture content
+  - Practice writing code
+  - Practice using GitHub (delivery/submission vehicle)
+- **Projects**
+  - Demonstrate ability to develop responsive static website and dynamic web application
+  - Add to students' public GitHub portfolios
+  - Practice code collaboration
+- **Written Exams**
+  - Demonstrate closed-book knowledge of subject matter
+  - Emulate live-coding component of real-world interviews
+
+Assignment|Percent|Format|Content
+--|--|--|--
+Homework (8)|20% (2.5 each)|Individual|All material.
+Project 1|20%|Group|HTML, CSS
+Midterm|15%|Individual|HTML, CSS
+Project 2|25%|Group|HTML, CSS, JS
+Final|20%|Individual|HTML, CSS, JS
+**TOTAL**|**100%**|--|--
 
 ## Tentative Course Schedule
 
