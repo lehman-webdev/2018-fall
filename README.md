@@ -76,7 +76,7 @@ May change to accommodate guest presenters and student needs.
 
 Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
-0	| Aug. 27 (M) | Intro | -- | -- | --
+0	| Aug. 27 (M) | -- | -- | -- | --
 1 | Aug. 29 (W) | -- | -- | -- | --
 -- | Sep. 3 (M) | **NO CLASS** | -- | -- | --
 2 | Sep. 5 (W) | -- | -- | -- | --
@@ -84,31 +84,31 @@ Lecture | Date | Content | Readings | Assigned | Due
 -- | Sep. 12 (W) | **NO CLASS** | -- | -- | --
 -- | Sep. 17 (M) | **NO CLASS** | -- | -- | --
 -- | Sep. 19 (W) | **NO CLASS** | -- | -- | --
-3 | Sep. 24 (M) | -- | -- | -- | --
+3 | Sep. 24 (M) | -- | -- | HW-1 | **Survey**
 4 | Sep. 26 (W) | -- | -- | -- | --
-5 | Oct. 1 (M) | -- | -- | -- | --
-6 | Oct. 3 (W) | -- | -- | -- | --
--- | Oct. 8 (M) | **NO CLASS** | -- | -- | --
+5 | Oct. 1 (M) | -- | -- | HW-2 | **HW-1**
+6 | Oct. 3 (W) | Review HW-1 | -- | Project 1 | --
+-- | Oct. 8 (M) | **NO CLASS** | -- | HW-3 | **HW-2**
 -- | Oct. 10 (W) | **NO CLASS** | -- | -- | --
-7 | Oct. 15 (M) | -- | -- | -- | --
-8 | Oct. 17 (W) | -- | -- | -- | --
-9 | Oct. 22 (M) | -- | -- | -- | --
-10 | Oct. 24 (W) | -- | -- | -- | --
-11 | Oct. 29 (M) | -- | -- | -- | --
-12 | Oct. 31 (W) | -- | -- | -- | --
-13 | Nov. 5 (M) | -- | -- | -- | --
-14 | Nov. 7 (W) | -- | -- | -- | --
-15 | Nov. 12 (M) | -- | -- | -- | --
+7 | Oct. 15 (M) | Review HW-2 | -- | -- | --
+8 | Oct. 17 (W) | -- | -- | -- | **HW-3**
+9 | Oct. 22 (M) | Review HW-3 | -- | -- | --
+10 | Oct. 24 (W) | Project demos, midterm review | -- | -- | **Project 1**
+11 | Oct. 29 (M) | Midterm | -- | HW-4 | **Midterm**
+12 | Oct. 31 (W) | Midterm recap | -- | -- | --
+13 | Nov. 5 (M) | -- | -- | HW-5 | **HW-4**
+14 | Nov. 7 (W) | Review HW-4 | -- | Project 2 | --
+15 | Nov. 12 (M) | -- | -- | HW-6 | **HW-5**
 -- | Nov. 14 (W) | **NO CLASS** | -- | -- | --
-16 | Nov. 19 (M) | -- | -- | -- | --
-17 | Nov. 21 (W) | -- | -- | -- | --
-18 | Nov. 26 (M) | -- | -- | -- | --
-19 | Nov. 28 (W) | -- | -- | -- | --
-20 | Dec. 3 (M) | -- | -- | -- | --
-21 | Dec. 5 (W) | -- | -- | -- | --
-22 | Dec. 10 (M) | -- | -- | -- | --
+16 | Nov. 19 (M) | Review HW-5 | -- | HW-7 | **HW-6**
+17 | Nov. 21 (W) | Review HW-6 | -- | -- | --
+18 | Nov. 26 (M) | -- | -- | HW-8 | **HW-7**
+19 | Nov. 28 (W) | Review HW-7 | -- | -- | --
+20 | Dec. 3 (M) | -- | -- | -- | **HW-8**
+21 | Dec. 5 (W) | Review HW-8 | -- | -- | --
+22 | Dec. 10 (M) | Project demos, final review. | -- | -- | **Project 2**
 -- | Dec. 12 (W) | **NO CLASS** | -- | -- | --
-FINAL | Dec. ? | Final exam. | -- | -- | --
+F | TBA | Final exam (week of Dec. 16) | -- | -- | **Final**
 
 ## Academic Integrity
 
