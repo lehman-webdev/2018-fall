@@ -1,7 +1,7 @@
 # CMP 464 – Web Programming
 
 [Department of Computer Science](http://lehman.edu/academics/mathematics-computer-science/index.php), Lehman College  
-Fall, 2018 ([academic calendar](http://www.lehman.edu/registrar/documents/2018/fall-2018-undergrad-academic-calendar.pdf))
+Fall, 2018 – [Academic Calendar](http://www.lehman.edu/registrar/documents/2018/fall-2018-undergrad-academic-calendar.pdf)
 
 **Instructor:** Ross Dakin  
 **Lecture:** Monday/Wednesday 6:00-7:40 p.m. (GI-231)  
@@ -27,7 +27,7 @@ This course meets twice per week for two 100-minute periods without an additiona
 ## Assumptions
 This course has no prerequisite courses; however, students are expected to be proficient in general programming principles and able to code in at least one language. Such experience will ensure that students are able to expediently learn new programming languages as they are introduced in this course.
 
-No web development experience is required; this course assumes that students do not have any prior knowledge of the subject matter. 
+No web development experience is required; this course assumes that students do not have any prior knowledge of the subject matter. It may be helpful, but is not required, to take a course on databases before this course.
 
 Note that this is not a web *design* course. Presentation is covered and general design tools will be discussed, but the emphasis is on application programming using the web as a platform.
 
@@ -40,7 +40,7 @@ Attendance is not a graded component of this class, though students are encourag
 
 ### Course readings
 
-In adhering to "real-world" industry norms, this class does not have any required texts, as all course material can be obtained through various free online resources. However, various readings will be recommended during the course of this class and will likely be helpful to student learning.
+In adhering to "real-world" industry norms, this class does not have any required texts, as all course material can be obtained through various free online resources. However, various readings will be recommended during the course of this class and will likely be helpful to student learning. Opportunities for extra credit may be available throughout the course.
 
 ### Assignments
 
@@ -87,7 +87,7 @@ Student grades in this course will be assigned as follows:
 
 ## Tentative Course Schedule
 
-May change to accommodate guest presenters & student needs.
+May change to accommodate guest presenters and student needs.
 
 Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
