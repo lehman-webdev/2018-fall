@@ -76,21 +76,21 @@ May change to accommodate guest presenters and student needs.
 
 Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
-0	| Aug. 27 (M) | -- | -- | -- | --
-1 | Aug. 29 (W) | -- | -- | -- | --
+0	| Aug. 27 (M) | Intro | -- | -- | --
+1 | Aug. 29 (W) | The Web, HTML | -- | -- | --
 -- | Sep. 3 (M) | **NO CLASS** | -- | -- | --
-2 | Sep. 5 (W) | -- | -- | -- | --
+2 | Sep. 5 (W) | More HTML | -- | -- | --
 -- | Sep. 10 (M) | **NO CLASS** | -- | -- | --
 -- | Sep. 12 (W) | **NO CLASS** | -- | -- | --
 -- | Sep. 17 (M) | **NO CLASS** | -- | -- | --
 -- | Sep. 19 (W) | **NO CLASS** | -- | -- | --
-3 | Sep. 24 (M) | -- | -- | HW-1 | **Survey**
-4 | Sep. 26 (W) | -- | -- | -- | --
-5 | Oct. 1 (M) | -- | -- | HW-2 | **HW-1**
-6 | Oct. 3 (W) | Review HW-1 | -- | Project 1 | --
+3 | Sep. 24 (M) | URL anatomy, web colors, image types/considerations | -- | HW-1 | **Survey**
+4 | Sep. 26 (W) | CSS: selectors (element, class, ID); locations (inline, style block, external file) | -- | -- | --
+5 | Oct. 1 (M) | git, GitHub, Markdown, Slack, more CSS | -- | HW-2 | --
+6 | Oct. 3 (W) | Review HW-1, more CSS, page layout, form project groups, discuss Project 1 | -- | Project 1 | **HW-1**
 -- | Oct. 8 (M) | **NO CLASS** | -- | HW-3 | **HW-2**
 -- | Oct. 10 (W) | **NO CLASS** | -- | -- | --
-7 | Oct. 15 (M) | Review HW-2 | -- | -- | --
+7 | Oct. 15 (M) | Review HW-2, project check-in | -- | -- | --
 8 | Oct. 17 (W) | -- | -- | -- | **HW-3**
 9 | Oct. 22 (M) | Review HW-3 | -- | -- | --
 10 | Oct. 24 (W) | Project demos, midterm review | -- | -- | **Project 1**
