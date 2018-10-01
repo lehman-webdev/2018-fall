@@ -98,7 +98,7 @@ Lecture | Date | Content | Readings | Assigned | Due
 12 | Oct. 31 (W) | Midterm recap | -- | -- | --
 13 | Nov. 5 (M) | -- | -- | HW-5 | **HW-4**
 14 | Nov. 7 (W) | Review HW-4 | -- | Project 2 | --
-15 | Nov. 12 (M) | -- | -- | HW-6 | **HW-5**
+15 | Nov. 12 (M) | Guest: John Kelly (web product developmen, American Express) | -- | HW-6 | **HW-5**
 -- | Nov. 14 (W) | **NO CLASS** | -- | -- | --
 16 | Nov. 19 (M) | Review HW-5 | -- | HW-7 | **HW-6**
 17 | Nov. 21 (W) | Review HW-6 | -- | -- | --
