@@ -5,7 +5,7 @@ Fall, 2018 – [Academic Calendar](http://www.lehman.edu/registrar/documents/201
 
 **Instructor:** Ross Dakin  
 **Lecture:** Monday/Wednesday 6:00-7:40 p.m. (GI-231)  
-**Office Hours:** TBA (GI-231)  
+**Office Hours:** 5pm Mondays (GI-231)  
 **Grading:** Letter Grade
 
 ## Rationalle
