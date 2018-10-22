@@ -86,15 +86,15 @@ Lecture | Date | Content | Readings | Assigned | Due
 -- | Sep. 19 (W) | **NO CLASS** | -- | -- | --
 3 | Sep. 24 (M) | URL anatomy, web colors, image types/considerations | -- | HW-1 | **Survey**
 4 | Sep. 26 (W) | CSS: selectors (element, class, ID); locations (inline, style block, external file) | -- | -- | --
-5 | Oct. 1 (M) | git, GitHub, Markdown, Slack, more CSS | -- | HW-2 | --
+5 | Oct. 1 (M) | git, GitHub, Markdown, Slack, more CSS | -- | -- | --
 6 | Oct. 3 (W) | Review HW-1, more CSS, page layout, form project groups, discuss Project 1 | -- | Project 1 | **HW-1**
--- | Oct. 8 (M) | **NO CLASS** | -- | HW-3 | **HW-2**
+-- | Oct. 8 (M) | **NO CLASS** | -- | -- | --
 -- | Oct. 10 (W) | **NO CLASS** | -- | -- | --
-7 | Oct. 15 (M) | Review HW-2, project check-in | -- | -- | --
+7 | Oct. 15 (M) | Project check-in, midterm review | -- | -- | --
 8 | Oct. 17 (W) | -- | -- | -- | **HW-3**
 9 | Oct. 22 (M) | Review HW-3 | -- | -- | --
-10 | Oct. 24 (W) | Project demos, midterm review | -- | -- | **Project 1**
-11 | Oct. 29 (M) | Midterm | -- | HW-4 | **Midterm**
+10 | Oct. 24 (W) | Project demos, midterm review | -- | -- | --
+11 | Oct. 29 (M) | Midterm | -- | HW-4 | **Midterm** **Project 1**
 12 | Oct. 31 (W) | Midterm recap | -- | -- | --
 13 | Nov. 5 (M) | -- | -- | HW-5 | **HW-4**
 14 | Nov. 7 (W) | Review HW-4 | -- | Project 2 | --
