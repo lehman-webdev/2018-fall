@@ -93,8 +93,8 @@ Lecture | Date | Content | Readings | Assigned | Due
 7 | Oct. 15 (M) | Project check-in, midterm review | -- | -- | --
 8 | Oct. 17 (W) | -- | -- | -- | **HW-3**
 9 | Oct. 22 (M) | Review HW-3 | -- | -- | --
-10 | Oct. 24 (W) | Project demos, midterm review | -- | -- | --
-11 | Oct. 29 (M) | Midterm | -- | HW-4 | **Midterm** **Project 1**
+10 | Oct. 24 (W) | Midterm review | -- | -- | --
+11 | Oct. 29 (M) | Project demos, midterm | -- | HW-4 | **Midterm** **Project 1**
 12 | Oct. 31 (W) | Midterm recap | -- | -- | --
 13 | Nov. 5 (M) | -- | -- | HW-5 | **HW-4**
 14 | Nov. 7 (W) | Review HW-4 | -- | Project 2 | --
