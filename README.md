@@ -91,16 +91,16 @@ Lecture | Date | Content | Readings | Assigned | Due
 -- | Oct. 8 (M) | **NO CLASS** | -- | -- | --
 -- | Oct. 10 (W) | **NO CLASS** | -- | -- | --
 7 | Oct. 15 (M) | Project check-in, midterm review | -- | -- | --
-8 | Oct. 17 (W) | -- | -- | -- | **HW-3**
+8 | Oct. 17 (W) | -- | -- | -- | --
 9 | Oct. 22 (M) | Review HW-3 | -- | -- | --
 10 | Oct. 24 (W) | Midterm review | -- | -- | --
-11 | Oct. 29 (M) | Project demos, midterm | -- | HW-4 | **Midterm** **Project 1**
+11 | Oct. 29 (M) | Project demos, midterm | -- | -- | **Midterm**
 12 | Oct. 31 (W) | Midterm recap | -- | -- | --
-13 | Nov. 5 (M) | -- | -- | HW-5 | **HW-4**
+13 | Nov. 5 (M) | -- | -- | -- | **Project 1**
 14 | Nov. 7 (W) | Review HW-4 | -- | Project 2 | --
-15 | Nov. 12 (M) | Guest: John Kelly (web product developmen, American Express) | -- | HW-6 | **HW-5**
+15 | Nov. 12 (M) | Guest: John Kelly (web product developmen, American Express) | -- | HW-2 | --
 -- | Nov. 14 (W) | **NO CLASS** | -- | -- | --
-16 | Nov. 19 (M) | Review HW-5 | -- | HW-7 | **HW-6**
+16 | Nov. 19 (M) | Review HW-5 | -- | HW-7 | **HW-2**
 17 | Nov. 21 (W) | Review HW-6 | -- | -- | --
 18 | Nov. 26 (M) | -- | -- | HW-8 | **HW-7**
 19 | Nov. 28 (W) | Review HW-7 | -- | -- | --
