@@ -93,14 +93,14 @@ Lecture | Date | Content | Readings | Assigned | Due
 7 | Oct. 15 (M) | Project check-in, midterm review | -- | -- | --
 8 | Oct. 17 (W) | -- | -- | -- | --
 9 | Oct. 22 (M) | Review HW-3 | -- | -- | --
-10 | Oct. 24 (W) | Midterm review | -- | -- | --
+10 | Oct. 24 (W) | Floats, URL relativity, Grid, Flexbox, Midterm final questions | -- | -- | --
 11 | Oct. 29 (M) | Midterm | -- | -- | **Midterm**
 12 | Oct. 31 (W) | Midterm recap, extra topics (database overview, etc.) | -- | -- | --
 13 | Nov. 5 (M) | Project demos | -- | -- | **Project 1**
-14 | Nov. 7 (W) | JavaScript Intro | -- | HW-2 | --
+14 | Nov. 7 (W) | Frameworks, design standards, style guides | -- | HW-2 | --
 15 | Nov. 12 (M) | Guest: John Kelly (web product developmen, American Express) | -- | HW-3 | **HW-2**
 -- | Nov. 14 (W) | **NO CLASS** | -- | -- | --
-16 | Nov. 19 (M) | -- | -- | HW-4 | **HW-3**
+16 | Nov. 19 (M) | JavaScript Intro, dev tools (codepen, etc.) | -- | HW-4 | **HW-3**
 17 | Nov. 21 (W) | -- | -- | Project 2 | --
 18 | Nov. 26 (M) | -- | -- | HW-5 | **HW-4**
 19 | Nov. 28 (W) | -- | -- | -- | --
