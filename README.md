@@ -97,13 +97,13 @@ Lecture | Date | Content | Readings | Assigned | Due
 11 | Oct. 29 (M) | Midterm | -- | -- | **Midterm**
 12 | Oct. 31 (W) | Midterm recap, extra topics (database overview, etc.) | -- | -- | --
 13 | Nov. 5 (M) | Project demos | -- | -- | **Project 1**
-14 | Nov. 7 (W) | Frameworks, design standards, style guides | -- | HW-2 | --
-15 | Nov. 12 (M) | Guest: John Kelly (web product developmen, American Express) | -- | HW-3 | **HW-2**
+14 | Nov. 7 (W) | JavaScript intro | -- | HW-2 | --
+15 | Nov. 12 (M) | JavaScript | -- | HW-3 | **HW-2**
 -- | Nov. 14 (W) | **NO CLASS** | -- | -- | --
-16 | Nov. 19 (M) | JavaScript Intro, dev tools (codepen, etc.) | -- | HW-4 | **HW-3**
-17 | Nov. 21 (W) | -- | -- | Project 2 | --
-18 | Nov. 26 (M) | -- | -- | HW-5 | **HW-4**
-19 | Nov. 28 (W) | -- | -- | -- | --
+16 | Nov. 19 (M) | JavaScript OOP, closures | -- | HW-4 | **HW-3**
+17 | Nov. 21 (W) | JavaScript events, DOM/BOM | -- | Project 2 | --
+18 | Nov. 26 (M) | AJAX, JSON, APIs | -- | HW-5 | **HW-4**
+19 | Nov. 28 (W) | Frameworks, design standards, style guides | -- | -- | --
 20 | Dec. 3 (M) | -- | -- | -- | **HW-5**
 21 | Dec. 5 (W) | -- | -- | -- | --
 22 | Dec. 10 (M) | Project demos, final review. | -- | -- | **Project 2**
