@@ -102,9 +102,9 @@ Lecture | Date | Content | Readings | Assigned | Due
 -- | Nov. 14 (W) | **NO CLASS** | -- | -- | --
 16 | Nov. 19 (M) | JavaScript OOP, closures | -- | HW-4 | **HW-3**
 17 | Nov. 21 (W) | JavaScript events, DOM/BOM | -- | Project 2 | --
-18 | Nov. 26 (M) | Frameworks, design standards, style guides | -- | HW-5 | **HW-4**
-19 | Nov. 28 (W) | AJAX, JSON, APIs | -- | -- | --
-20 | Dec. 3 (M) | -- | -- | -- | **HW-5**
+18 | Nov. 26 (M) | JavaScript libraries | -- | HW-5 | **HW-4**
+19 | Nov. 28 (W) | Frameworks, design standards, style guides | -- | -- | --
+20 | Dec. 3 (M) | AJAX, JSON, APIs | -- | -- | **HW-5**
 21 | Dec. 5 (W) | -- | -- | -- | --
 22 | Dec. 10 (M) | Project demos, final review. | -- | -- | **Project 2**
 -- | Dec. 12 (W) | **NO CLASS** | -- | -- | --
