@@ -105,10 +105,10 @@ Lecture | Date | Content | Readings | Assigned | Due
 18 | Nov. 26 (M) | JavaScript libraries | -- | HW-5 | **HW-4**
 19 | Nov. 28 (W) | Frameworks, design standards, style guides | -- | -- | --
 20 | Dec. 3 (M) | AJAX, JSON, APIs | -- | -- | **HW-5**
-21 | Dec. 5 (W) | -- | -- | -- | --
-22 | Dec. 10 (M) | Project demos, final review. | -- | -- | **Project 2**
+21 | Dec. 5 (W) | JavaScript  | -- | -- | --
+22 | Dec. 10 (M) | Project demos, final review, CMSs | -- | -- | **Project 2**
 -- | Dec. 12 (W) | **NO CLASS** | -- | -- | --
-F | TBA | Final exam (week of Dec. 16) | -- | -- | **Final**
+F | Dec. 17 (M) | Final exam (6:15–8:15pm) | -- | -- | **Final**
 
 ## Academic Integrity
 
