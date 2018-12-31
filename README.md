@@ -112,7 +112,7 @@ F | Dec. 17 (M) | Final exam (6:15–8:15pm) | -- | -- | **Final**
 
 ## Academic Integrity
 
-This course observed and upholds the [CUNY Policy on Academic Integrity](http://www.lehman.edu/lehman/about/policies_pdf/CUNYAcademicIntegrityPolicy.pdf) ([Accessible Plain Text](http://www.lehman.edu/lehman/about/policies_pdf/CUNYAcademicIntegrityPolicy.txt)). Each student in this course is expected to abide by this policy. Any work submitted by a student in this course for academic credit will be the student's own work. Collaboration is allowed where assignments are designated as group projects.
+This course observed and upholds the [CUNY Policy on Academic Integrity](http://www2.cuny.edu/about/administration/offices/legal-affairs/policies-procedures/academic-integrity-policy/) as discussed in the [Lehman Academic Integrity section of the 2017-2019 Undergraduate Bulletin](http://lehman.smartcatalogiq.com/2017-2019/Undergraduate-Bulletin/Academic-Services-and-Policies/Academic-Integrity). Each student in this course is expected to abide by this policy. Any work submitted by a student in this course for academic credit will be the student's own work. Collaboration is allowed where assignments are designated as group projects.
 
 You are encouraged to study together and to discuss information and concepts covered in lecture and the sections with other students. You can give "consulting" help to or receive "consulting" help from such students. However, this permissible cooperation should never involve one student having possession of a copy of all or part of work done by someone else, in the form of an e-mail, an e-mail attachment file, a diskette, or a hard copy. 
 
